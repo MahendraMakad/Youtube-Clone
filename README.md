@@ -18,7 +18,7 @@ display a thumbnail of that video. When, user clicks on that thumbnail, it chang
 It receives a video from VideoList component as props and plays that video using html video element.
 
 ## Online App Link:
-https://youtube-clone-mahendra.netlify.app/(hosted on netlify)
+https://youtube-clone-mahendra.netlify.app/ (hosted on netlify)
 
 ## Getting Started
 To run the YouTube Clone web application on your local machine, please follow these steps:
