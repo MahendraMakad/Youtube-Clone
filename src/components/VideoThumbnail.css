@@ -1,0 +1,33 @@
+img {
+  width: 200px;
+  height: 200px;
+}
+
+#profile-picture {
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 1rem;
+  border: 1px solid black;
+}
+
+#handle-name {
+  font-weight: bold;
+}
+
+.videoThumbnail {
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.box {
+  margin: 0.5rem;
+}
+
+.profile {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}

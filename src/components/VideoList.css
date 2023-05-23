@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.button {
+  position: fixed;
+}
+
+.videoList {
+  background-color: black;
+}
+
+.videoList-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgb(76, 70, 70);
+}
+
+#prev-button {
+  left: 10%;
+  bottom: 10%;
+}
+
+#next-button {
+  right: 10%;
+  bottom: 10%;
+}
+
+@media screen and (min-width: 720px) {
+  .videoList {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+}
