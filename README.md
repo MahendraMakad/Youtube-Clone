@@ -20,7 +20,7 @@ It receives a video from VideoList component as props and plays that video using
 ## Getting Started
 To run the YouTube Clone web application on your local machine, please follow these steps:
 1. Clone the repository:
-git clone https://github.com/your-username/YouTube-Clone.git
+git clone https://github.com/MahendraMakad/YouTube-Clone.git
 2. Navigate to the project directory:
 cd YouTube-Clone
 3. Install the dependencies: npm install
