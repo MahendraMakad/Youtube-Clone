@@ -1,5 +1,5 @@
 # YouTube-Clone
-This is a simplified "Youtube Clone" web application built using React and fetching data from API url 'https://internship-service.onrender.com/videos?page=2'.
+This is a simplified "Youtube Clone" web application built using React and fetching data from API url 'https://internship-service.onrender.com/videos'.
 It allows users to view a list of predefined video thumbnails, click on a thumbnail to play the video, and see basic information about the video such as creator's profile picture and creator's handle name.
 
 ## API Pagination:
